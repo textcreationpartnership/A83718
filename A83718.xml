@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eight propositions concerning the Kings Majestie, and the crowne of England; presented to the view of all His Majesties loyall subjects within his realmes and dominions. Together with severall proposals to the people of England touching their power and authority, both towards their Soveraigne the King, the disposall of the crown, and His Majesties oath and covenant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83718</idno>
+            <idno type="STC">Wing E259</idno>
+            <idno type="STC">Thomason E429_2</idno>
+            <idno type="STC">ESTC R204615</idno>
+            <idno type="EEBO-CITATION">99864081</idno>
+            <idno type="PROQUEST">99864081</idno>
+            <idno type="VID">161481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161481)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E429[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eight propositions concerning the Kings Majestie, and the crowne of England; presented to the view of all His Majesties loyall subjects within his realmes and dominions. Together with severall proposals to the people of England touching their power and authority, both towards their Soveraigne the King, the disposall of the crown, and His Majesties oath and covenant.</title>
+               </titleStmt>
+               <extent>[2], 5 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Leonard Lichfield ;</publisher>
+                  <pubPlace>Imprinted at Oxford :</pubPlace>
+                  <pubPlace>and re-printed at London,</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 5.</note>
+                  <note>Annotation on Thomason copy: "Feb 24."; the last I in imprint date is crossed out and the date altered to 1647.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161481:1" rendition="simple:additions"/>
+            <p>EIGHT PROPOSITIONS CONCERNINC The Kings Majeſtie, and the Crowne of ENGLAND; Preſented to the view of all His Majeſties loyall Subjects within his Realmes and Dominions.</p>
+            <p>Together with ſeverall Propoſals to the People of England touching their Power and Authority, both towards their So<g ref="char:EOLhyphen"/>veraign the King, the diſpoſall of the Crown, and His Majeſties Oath and Covenant.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>Imprinted at OXFORD by <hi>Leonard Lichfield,</hi> And Re-printed at <hi>London,</hi> MDCXLVI<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161481:2"/>
+            <pb n="1" facs="tcp:161481:2"/>
+            <head>EIGHT PROPOSITIONS PRESENTED To the view of all His Majeſties loyall and faithfull Subjects within His Realms and Dominions.</head>
+            <div n="1" type="proposition">
+               <head>I.</head>
+               <head>IS it lawfull for Kings to doe, as <hi>Samuel</hi> from the Lord told the People <hi>Saul</hi> would do?</head>
+               <head type="sub">ANSW. I.</head>
+               <p>No; for <hi>Samuel</hi> at the eſtabliſhing of <hi>Saul, 1 Sam.</hi> 10. 25. told <hi>Saul</hi> and all the people the duty of a <hi>King,</hi> and wrote it in a book, and laid it up before the Lord, as a witneſſe betwixt King and people, ſo that all that the Lord doth command, is lawful to be done, and it is a ſinne not to do it; and all that the Lord doth forbid, is unlawfull to be done, and is a ſin to doe it. The Lord doth not command Kings to take from one, and to give to another, and to do their own wills: therefore, it is not lawfull for Kings to exer<g ref="char:EOLhyphen"/>ciſe
+<pb n="2" facs="tcp:161481:3"/> this Regal power: but the Lord ſaith that they will do ſo and ſo, which is not a ſufficient warrant for Kings to do ſo and ſo, be<g ref="char:EOLhyphen"/>cauſe the Lord in his Law of the duty of a King hath expreſly forbidden the ſame. Therefore, it is unlawfull for Kings to exer<g ref="char:EOLhyphen"/>ciſe this regall power.</p>
+            </div>
+            <div n="2" type="proposition">
+               <head>II.</head>
+               <head>If it be unlawfull for Kings to take from, and to give unto, and to doe what they pleaſe, why did, or doth the Lord command the people to yeeld obedience, and ſerve their Kings, according to ſuch demands, commands, will and plea<g ref="char:EOLhyphen"/>ſure.</head>
+               <head type="sub">ANSWER.</head>
+               <p>For two reaſons: firſt, in reſpect of the Lord himſelfe, becauſe he was King of Iſrael, and had that regall power and prerogative-Royal, to do his own will with man.</p>
+               <p>Secondly, in reſpect of man, becauſe Iſrael would have a man to be their King, and forſake the Lord their God peremptorily; notwithſtanding all before mentioned, Iſrael muſt know that a mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all man, one of their brethren, to bee exalted to the dignity of the Lords throne of Majeſty, unto which belongs ſuch regall power, and Royal prerogative, that was not fit for any ſinful mor<g ref="char:EOLhyphen"/>tall man, becauſe the wayes power, and wiſdome of man, cannot (as the Lord) exerciſe ſuch a power, but either on the right hand or on the left, they will tranſgreſſe againſt God or man, in diſo<g ref="char:EOLhyphen"/>beying the Commandement of the Lord, and this is the cauſe of the Lords anger, and therefore for a puniſhment, Iſrael muſt yeeld in obedience, and ſerve their Kings accordingly.</p>
+            </div>
+            <div n="3" type="proposition">
+               <head>III.</head>
+               <head>Touching the true and only right place, office, and power of a King, according to the Word of God.</head>
+               <head type="sub">ANSWER.</head>
+               <p>Firſt, the true and only right place and office of a King, is from amongſt, above, and over all the people, alone to ſit in the Lords throne of Majeſty.</p>
+               <pb n="3" facs="tcp:161481:3"/>
+               <p>Secondly, The true and only right Office of a King, is to bee the Miniſter of God for the wealth or good of the people over whom he is ſet, doing the will (according unto the Lawes, Sta<g ref="char:EOLhyphen"/>tutes, and Ordinance) of him in whoſe throne he ſits.</p>
+               <p>Therefore, Kings are not to make any Statute, Law, or Ordi<g ref="char:EOLhyphen"/>nance, deſtructive or contradictory unto them that were made by God before he made any King.</p>
+               <p>So that even Kings are to be as ſubject to the Lord, as men to Kings, and ſo as one intruſted by God, as the Lords Vicegerent, or Lieutenant over the Lords people betwixt God and Man, to ſee and look unto it, that God may be honoured, glorified, ſerved by himſelfe, and all the people, to ſee and looke to, and preſerve the people from all enemies, perils &amp; dangers, both from abroad and at home.</p>
+               <p>Thirdly, the true and only right power of a King, is as the Mi<g ref="char:EOLhyphen"/>niſter of God, to bear the ſword of Juſtice, to take vengeance on, or execute juſtice upon all evill doers, and to praiſe, honour, and encourage ſuch as do well.</p>
+            </div>
+            <div n="4" type="proposition">
+               <head>IIII.</head>
+               <head>Touching the difference between the Kings of Iſraels power, and the Kings of Englands power, and the Subjects of both.</head>
+               <head type="sub">ANSWER.</head>
+               <p>The people of Iſrael were within the Covenant and promiſe of Jeſus Chriſt, unto whom the Lord gave his Lawes, Statutes, and Ordinances, both Morall and Ceremoniall: unto whom alſo was given Prieſts and Prophets to adminiſter unto them, and to teach and direct them, and Judges to guide and lead them, and the great God of Heaven and Earth to be their King, to ſave de<g ref="char:EOLhyphen"/>fend, and deliver them.</p>
+               <p>Therefore, the Kingdome and Crown of Iſrael, was the Gods of Iſrael, and ſo of a greater and higher power and majeſty, then any other kingdome of the earth.</p>
+            </div>
+            <div n="5" type="proposition">
+               <head>V.</head>
+               <head>Touching the power of the Kings of Iſrael under the Morall Law, and the power of the Kings of England under the Goſpel Law.</head>
+               <pb n="4" facs="tcp:161481:4"/>
+               <p>
+                  <hi>Anſw.</hi> The Kingdom and Crown of Iſrael, was the Gods of Iſ<g ref="char:EOLhyphen"/>rael, who in judgment to the people for their ſins, gave the ſame to <hi>Saul,</hi> and confirmed it upon <hi>David</hi> and to his Seed. The Lord never gave any Kingdom, nor Crowne, neither did the Lord ap<g ref="char:EOLhyphen"/>point or anoint any Kings, ſave only of Iſrael and Judah.</p>
+               <p>The Kings of England were not at their beginning appointed nor anointed, as were the Kings of Iſrael, but were by the Nation ordained as Kings over this Nation, according to the cuſtome of this Nation, which is, before they wil admit the Crown to him, they do intend, hee muſt by Covenant and Oath impoſed upon him, yeeld them their rights and priviledges, and that he wil rule them according to the Cuſtoms and Laws of the Land<g ref="char:punc">▪</g> and then they grant unto him the Crown for his own life: ſo that power that hath power to impoſe an Oath before a Graunt, hath power to detain the thing to be granted, if the Oath be refuſed by him to whom the Grant is intended, and every Grauntee is ſubject to the Grauntor, according to the Covenant of the Graunt, there can be no fee ſimple eſtate in the Grauntee of the thing granted, but the fee-ſimple eſtate of the thing granted is in the Gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unter, viz. 1. The Kingdom or Common-wealth of England, is the Graunter. 2. The King of England is the Grauntee. 3. The Crown of England is the thing granted, So that the fee-ſimple eſtate of the Crown of England is the Common wealths of Eng<g ref="char:EOLhyphen"/>land to diſpoſe of, according to the Cuſtome and Lawes of the Land, which is by Covenant and Grant to the Prince in being, &amp; after whoſe deceaſe by cuſtome, but no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by right of inheritance to the next in or of bloud, and ſo from one Generation to ano<g ref="char:EOLhyphen"/>ther in like manner. So that this Regal power doth not at all be<g ref="char:EOLhyphen"/>long to a King of England; therefore, if the Lord was wrath, and did exceedingly puniſh the Kings of Iſrael for exerciſing this re<g ref="char:EOLhyphen"/>gal power, before the light of the Goſpel. How much more then ſhal Kings under the light and knowledge of the Goſpel, incurre the wrath of God, if they be found guilty of oppreſſion &amp; tyran<g ref="char:EOLhyphen"/>nie againſt the believing members of the Lord Chriſt? themſelvs drofeſſing the ſame faith, and acknowledging the ſame knowledg:
+<pb n="5" facs="tcp:161481:4"/> the Lord is no reſpecter of perſons, but the ſoule that ſinneth ſhall dye.</p>
+               <p>A King of <hi>England</hi> may not by this regall power demand and command of and from the people, as the Kings of Iſrael, neither by the Laws of God, not by the Laws of the Land, neither are the people of <hi>England</hi> bound to that ſlaviſh obedience, as the peo<g ref="char:EOLhyphen"/>ple of Iſrael were; but the people of England, both by the Laws of God, and by the laws of the land, are freed from ſuch a ſlaviſh obedience; and therefore both according to the lawes of God &amp; the Land, may lawfully deny, aod refuſe to ſubmit becauſe it is an unlawfull impoſition, and where the demand and command unlawfull, the deniall or refuſall is lawfull.</p>
+            </div>
+            <div n="6" type="proposition">
+               <head>
+                  <hi>6. Propſ.</hi> How ſhall we know when a King doth tranſgreſſe againſt his Oath, and breake his Covenant, and what is the remedy?</head>
+               <p>
+                  <hi>An.</hi> A King doth tranſgreſſe his Oath, and breake his Covenant when that his demands are beyond the Nationall Law, which by vertue of his Oath, as it is a breach thereof is oppreſſion, and when a King doth command of, and from the people ſuch things as are oppoſite unto, and againſt the fundamentall Laws of the Land; which by vertue of of his Oath, as it is a breach thereof, is tyrany: which lawfully begets in the Common wealth an ab<g ref="char:EOLhyphen"/>ſolute deniall and refuſall to ſuch demands and commands, and ſo the peace of the land is endangered: the onely remedy to pre<g ref="char:EOLhyphen"/>ſerve the ſame, is for the King to preſerve a Parliament, that is, to ſend out his Writs to the Commons to chooſe their Knights &amp; Burgeſſes, who by vertue of the Kings Writs; and the Com<g ref="char:EOLhyphen"/>mons voices for them, are Parliament men, and as Arbitrators are to decide all differences in Church and State, and Common<g ref="char:EOLhyphen"/>wealth; whoſe concluſions and determinations, together with the Kings aſſent, conſent, and ſigning, are binding Laws both to King and people.</p>
+            </div>
+            <div n="7" type="proposition">
+               <head>
+                  <hi>7. Propoſ.</hi> How farre may or ought a King lawfully to deny to aſſent or conſent, and ſigne their d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terminations and concluſions?</head>
+               <p>
+                  <hi>Anſ.</hi> A <hi>King</hi> as he ſits in the Lords throne may, and as he is in<g ref="char:EOLhyphen"/>truſted by God over the people, ought to deny to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſent, conſent
+<pb n="5" facs="tcp:161481:5"/> and ſigne their determinations, if the ſame ſhall either be diſho<g ref="char:EOLhyphen"/>nourable to the glory, worſhip, and ſervice of the Lord, or inju<g ref="char:EOLhyphen"/>rious to the good of the Common-wealth, and no further; for it is his office to be as (or more) forward and carefull for both, as any other man, both by the lawes of God and the land, as he is the great Miniſter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the greateſt truſt for both, by taking the ſame charge upon him.</p>
+            </div>
+            <div n="8" type="proposition">
+               <head>
+                  <hi>8: Propoſition,</hi> But if<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> King ſhall deny to conſent, aſſent, and ſigne the Parliaments determinations, although honourable to the Lord, and good and be<g ref="char:EOLhyphen"/>neficiall to the Common-wealth; then what is the Kings <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffence, benifit, or dan<g ref="char:EOLhyphen"/>ger; and their power, as they are Parliament-men, and ſo the body repreſen<g ref="char:EOLhyphen"/>tative of the Lord.</head>
+               <p>
+                  <hi>Anſw.</hi> If a <hi>King</hi> ſhall deny to aſſent unto that which is lawfull befor God and man, and contend againſt it; and inſtead of ſigning their determinations, to ſeperate himſelfe from them, and make warre againſt and upon them; he doth thereby break the peace, which as he ſits in the Lords throne of Majeſty, he ought to keepe, maintaine, and preſerve; and alſo thereby he breakes and wilfully violates his Oath, and Nationall Covenant, by which he enioyes the Crowne, and ſo is an offender both againſt God and man, by both, for both, he is intruſted betwixt both. <hi>Gen. 7. 11. Iannes</hi> and <hi>Iombres,</hi> who had the Devils helpe, and by him did that they did in their withſtanding of <hi>Moſes?</hi> and ſo ſuch are all they that do adviſe the <hi>King</hi> againſt the good advice of his grave and wiſe Elders the Parliament.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
